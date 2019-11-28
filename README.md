@@ -1,2 +1,0 @@
-# bison
-bison parser generator
